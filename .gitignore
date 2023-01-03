@@ -1,5 +1,4 @@
 # img dosyalarini snapshot etmeyelim
-*.png
 *.jpeg
 
 # media dosyalarini snapshot etmeyelim
