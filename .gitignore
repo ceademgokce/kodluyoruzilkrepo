@@ -1,0 +1,16 @@
+# img dosyalarini snapshot etmeyelim
+*.png
+*.jpeg
+
+# media dosyalarini snapshot etmeyelim
+*.mp3
+*.mp4
+
+# özel olarak bir dosya da belirtilebilir
+ozeldosya.jpe
+
+# klasor de belirtilebilir
+klasoradi/
+
+# sifre yazan ozel dosyalar ayrı tutulmasinda fayda var
+password.txt
